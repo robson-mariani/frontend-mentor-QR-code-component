@@ -31,5 +31,5 @@ main{
 .component .info{
     color: hsl(220, 15%, 55%);
     font-size: 15px;
-    margin: 16px;
+    margin: 16px 16px 24px;
 }
